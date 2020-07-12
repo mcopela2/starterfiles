@@ -378,7 +378,7 @@ img {
   border: 1px solid #dc3545;
 }
 
-@media screen and (max-width: 992) {
+@media screen and (max-width: 992px) {
   #services .p-5 {
     padding: 0 !important;
   }
